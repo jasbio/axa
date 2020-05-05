@@ -1,0 +1,7 @@
+# A static site
+- type: web
+  name: jasbio-axa
+  env: static
+  # buildCommand: yarn build
+  staticPublishPath: .
+  # pullRequestPreviewsEnabled: true     # optional
